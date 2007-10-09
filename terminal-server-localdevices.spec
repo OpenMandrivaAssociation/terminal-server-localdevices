@@ -1,4 +1,4 @@
-Summary:	This enables the local devices on an X terminal.
+Summary:	This enables the local devices on an X terminal
 Name:		terminal-server-localdevices
 Version:	1.0
 Release:	%mkrel 5
