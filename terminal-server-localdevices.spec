@@ -7,7 +7,6 @@ Group:		Networking/Other
 URL:		http://www.advx.org
 
 Source0:	xterminals.tar.bz2
-BuildRoot:	%_tmppath/%name-%version-root
 Requires:	terminal-server, clusternfs, etherboot
 
 %description
