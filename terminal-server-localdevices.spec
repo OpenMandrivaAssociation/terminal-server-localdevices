@@ -1,7 +1,7 @@
 Summary:	This enables the local devices on an X terminal
 Name:		terminal-server-localdevices
 Version:	1.0
-Release:	%mkrel 5
+Release:	%mkrel 7
 License:	GPL
 Group:		Networking/Other
 URL:		http://www.advx.org
