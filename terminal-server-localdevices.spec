@@ -4,7 +4,7 @@ Version:	1.0
 Release:	10
 License:	GPL
 Group:		Networking/Other
-URL:		http://www.advx.org
+URL:		https://www.advx.org
 
 Source0:	xterminals.tar.bz2
 BuildRoot:	%_tmppath/%name-%version-root
